@@ -9,9 +9,13 @@ Marketing teams rely on data to optimize campaigns, allocate budgets effectively
 **Key Objectives:**
 
 ✔ Identify top-performing and underperforming campaigns based on ROI.
+
 ✔ Analyze CTR, CPC, and Conversion Rate to measure engagement and effectiveness.
+
 ✔ Evaluate marketing channels (Email, Social Media, Influencer, etc.) to optimize strategy.
+
 ✔ Examine location-based trends to determine geographical campaign performance.
+
 ✔ Provide data-driven recommendations to improve customer acquisition.
 
 
@@ -32,12 +36,14 @@ ROI – Return on Investment, measuring campaign profitability.
 
 Location – City where the campaign was conducted.
 
+
 **🛠 Tools & Technologies Used**
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, analysis, and visualization.
 
 Jupyter Notebook – Code execution and report generation.
 
 Matplotlib & Seaborn – Graphs and heatmaps for correlation analysis.
+
 
 **📈 Key Findings & Insights**
 Influencer and Search Ads had the highest ROI, while Email campaigns underperformed.
@@ -50,6 +56,7 @@ Miami had the highest ROI among locations, while New York had the lowest.
 
 Social Media campaigns performed better than Email campaigns in driving engagement.
 
+
 📌 **Visualizations & Analysis**
 
 🔹 Bar Chart: ROI by Campaign Type – Which channels drive the most revenue?
@@ -59,6 +66,7 @@ Social Media campaigns performed better than Email campaigns in driving engageme
 🔹 Scatter Plot: CPC vs ROI – Does spending more per click lead to higher ROI?
 
 🔹 Line Chart: ROI Trends Over Time – Identifying seasonal patterns in campaign performance.
+
 
 🚀**Recommendations**
 Increase budget allocation for high-ROI campaigns (Influencer, Search Ads).
