@@ -1,4 +1,5 @@
 **Marketing Campaign Performance Analysis & Optimization**
+
 This project focuses on Exploratory Data Analysis (EDA) of marketing campaigns to extract insights that drive customer acquisition, engagement, and ROI optimization. By analyzing key metrics such as Click-Through Rate (CTR), 
 Cost Per Click (CPC), Conversion Rate, and ROI, we provide data-driven recommendations to enhance marketing strategies.
 
